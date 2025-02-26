@@ -2,7 +2,8 @@
 
 Chess Against Michel is a simple, interactive chess game that lets you challenge an AI opponent named Michel. The project offers an engaging experience with smooth animations, responsive design, and user-friendly controls.
 
-Play : 
+Start playing now by clicking the link below:  
+[Play Chess Against Michel](https://vincent-sniteur.github.io/Chess-against-Michel/)
 
 ## Features
 
